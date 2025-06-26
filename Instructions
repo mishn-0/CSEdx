@@ -1,0 +1,16 @@
+https://code.visualstudio.com/docs/cpp/config-mingw
+
+
+after installing mingw, on their window:
+
+pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
+
+
+then add the new environment path to the BIN folder of mingw64,
+
+Then run intellisense to check if it's there, gcc
+
+
+How to commit to GIT from VScode
+https://youtu.be/E6ADS2k8oNQ
+https://code.visualstudio.com/docs/sourcecontrol/github
